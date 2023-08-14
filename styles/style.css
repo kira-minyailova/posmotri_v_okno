@@ -314,9 +314,14 @@ label span {
   text-underline-offset: 4px;
 }
 
-.content__card-link_current:active {
+/* .content__card-link_current:active {
   background: #545050;
   padding: 2px;
+} */
+
+.content__card-link_current {
+  background-color: #545050;
+  padding: 1px;
 }
 
 .content__card-link:hover{
